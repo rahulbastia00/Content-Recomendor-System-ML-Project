@@ -152,18 +152,6 @@ pip install -r requirements.txt
 
 This app uses the [The Movie Database (TMDb) API](https://www.themoviedb.org/documentation/api) to fetch movie posters. You will need an API key from TMDb to use this feature.
 
-## 📜 License
 
-This project is licensed under the MIT License.
-
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a pull request with improvements or suggestions.
-
-## 📧 Contact
-
-For questions, please reach out to [your-email@example.com](mailto:your-email@example.com).
-
----
 
 Enjoy your personalized movie recommendations! 🍿🎉
